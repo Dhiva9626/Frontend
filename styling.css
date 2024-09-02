@@ -1,0 +1,141 @@
+.card
+{
+    box-shadow: 0 8px 15px 0;
+    transition: 0.3s;
+border-radius: 8px;
+
+
+}
+.card:hover{
+    box-shadow: 10px 10px 10px 10px;
+    overflow: hidden;
+}
+.container
+{
+    padding:8px;
+    container:20px;
+    
+    overflow: hidden;
+    
+    
+    }
+
+.hide{
+    display: none;
+    
+}
+.mydiv:hover + .hide{
+    display: block;
+    background-color:mintcream;
+    border-radius: 15px;
+   
+   overflow: hidden;
+   
+}
+
+
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap;
+}
+
+.card{
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+padding: 10px;
+}
+
+
+.coloumn
+{column-count: 4;
+    column-gap: 50px;
+    padding:30px;   }
+
+.column2{
+    column-count:4;
+    column-gap:50px;
+    padding:30px;
+}
+.column3
+{
+    column-count: 4;
+    column-gap: 50px;
+    padding:30px;
+}
+.column4
+{
+    column-count: 4;
+    column-gap: 50px;
+    padding:30px;
+}
+.column5
+{
+    column-count: 4;
+    column-gap: 50px;
+    padding:30px;
+}
+.column6
+{
+    column-count: 4;
+    column-gap: 50px;
+    padding:30px;
+}
+.column7
+{
+    column-count: 4;
+    column-gap: 50px;
+    padding:30px;
+}
+.column8
+{
+    column-count: 4;
+    column-gap: 50px;
+    padding:30px;
+}
+.column9
+{
+    column-count: 4;
+    column-gap: 50px;
+    padding:30px;
+
+}
+.column10
+{
+    column-count: 4;
+    column-gap: 50px;
+    padding:30px;
+}
+.column11
+{
+    column-count: 4;
+    column-gap: 50px;
+    padding:30px;
+}
+
+.column12
+{
+    column-count: 4;
+    column-gap: 50px;
+    padding:30px;
+}
+.column13
+{
+    column-count: 4;
+    column-gap: 50px;
+    padding:30px;
+}
+.heading
+{
+    background-image: url('JOHN.jpeg');
+    background-size: COVER;
+    background-clip: TEXT;
+    -webkit-background-clip: TEXT;
+    color: transparent;
+    text-align: center;
+    font-size: large;
+}
+.img
+{
+    border-radius: 20px;
+}
